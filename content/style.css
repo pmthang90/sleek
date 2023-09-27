@@ -1,0 +1,103 @@
+/* Header-Nav */
+.bg-cl {
+  background-color: #003049;
+  min-height: 100vh;
+}
+
+.bg-cl h5 {
+  color: #fff;
+  font-size: 1em;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.custom-nav-item {
+  /* font-size: 1em; Increase font size */
+  padding: 0em 1em; /* Increase padding for height and width */
+  color: white;
+}
+
+.text-home h2 {
+  color: white;
+  align-items: center;
+  size: 10px;
+}
+/* Search box */
+
+.searchbox {
+  height: 2.5em;
+}
+
+/* Job Card */
+.jobcard {
+  width: 25em;
+  height: 30em;
+}
+
+.logocom{
+  width: 6em;
+  height: 6em;
+}
+
+
+/* About Us */
+.container1 {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  color: white;
+}
+
+/* Footer */
+.site-footer {
+  background-color: #26272b;
+  padding: 5px 0 5px;
+  margin-top: auto;
+  /* font-size:15px; */
+  color: #737373;
+}
+.site-footer hr {
+  border-top-color: #bbb;
+  opacity: 0.5;
+  margin: auto;
+}
+.site-footer hr.small {
+  margin: px 0;
+}
+.site-footer h6 {
+  color: #fff;
+  font-size: 13px;
+  text-transform: uppercase;
+  margin-top: 5px;
+  letter-spacing: 2px;
+}
+/* Social Media */
+.fa {
+  padding-right: 10px;
+  font-size: 20px;
+  width: px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  color: white;
+}
+.fa-youtube {
+  color: white;
+}
+.fa-linkedin {
+  color: white;
+}
